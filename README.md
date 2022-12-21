@@ -1,7 +1,7 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IS4C4SI/IS4C4SI/main/images/dark.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IS4C4SI/IS4C4SI/main/images/very-dark.png">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IS4C4SI/IS4C4SI/main/images/light.png">
-<img alt="I'm glad to see you in my profile!" src="https://raw.githubusercontent.com/IS4C4SI/IS4C4SI/main/images/dark.png">
+<img alt="I'm glad to see you in my profile!" src="https://raw.githubusercontent.com/IS4C4SI/IS4C4SI/main/images/very-dark.png">
 </picture>
 
 ## __👋 Hi, I’m SIKI (@IS4C4SI)__
