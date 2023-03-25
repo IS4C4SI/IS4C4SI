@@ -13,3 +13,4 @@
 - 🔊My favorite label: Monstercat, my favorite artist: koven
 
 📫 You can contact me via discord: IS4SI#8200 (note: you must be on the same servers with me)
+<!-- If you can't be on the same servers as me, contact me by mail: -->
